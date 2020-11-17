@@ -1,2 +1,2 @@
 # Github-Information
-Information
+Information about git and github
